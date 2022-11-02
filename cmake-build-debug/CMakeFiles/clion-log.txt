@@ -1,0 +1,16 @@
+"/Users/scottkang/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -D CMAKE_C_COMPILER=clang -D CMAKE_CXX_COMPILER=clang++ -G "CodeBlocks - Unix Makefiles" -S "/Users/scottkang/Desktop/CS2201 PA/project8" -B "/Users/scottkang/Desktop/CS2201 PA/project8/cmake-build-debug"
+-- The C compiler identification is AppleClang 13.0.0.13000027
+-- The CXX compiler identification is AppleClang 13.0.0.13000027
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/scottkang/Desktop/CS2201 PA/project8/cmake-build-debug
